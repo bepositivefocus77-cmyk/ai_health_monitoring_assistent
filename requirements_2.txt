@@ -1,0 +1,8 @@
+streamlit>=1.35.0
+langchain-groq>=1.1.0
+langgraph>=1.1.0
+pinecone>=8.1.0
+sentence-transformers>=3.0.0
+pdfminer.six>=20221105
+python-dotenv>=1.0.0
+requests>=2.32.0
